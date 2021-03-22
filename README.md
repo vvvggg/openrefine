@@ -11,6 +11,6 @@
 
 ### CHANGELOG
 
-- Fixed some UI HTML images src to respect base URL path, if any
-- Fixed the ENTRYPOINT script grep invocation parameter for cleaner logs
+- Fixed some UI HTML images `src` to respect base URL path, if any
+- Fixed the ENTRYPOINT script `grep` invocation parameter for cleaner logs
 
